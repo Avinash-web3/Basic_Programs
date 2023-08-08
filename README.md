@@ -7,3 +7,4 @@
 | 4      | [JavaScript Program to Calculate the Area of a Triangle](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/areaoftraingle.js) |
 | 5      | [JavaScript Program to Swap Two Variables](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/swaptwovariable.js) |
 | 6      |  [Javascript Program to Solve Quadratic Equation](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/rootsofquadratic.js)
+| 7      | [JavaScript Program to Convert Kilometers to Miles](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/kilometertomiles.js)
