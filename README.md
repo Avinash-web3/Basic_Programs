@@ -10,5 +10,4 @@
 | 7      | [JavaScript Program to Convert Kilometers to Miles](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/kilometertomiles.js)
 | 8      | [Javascript Program to Convert Celsius to Fahrenheit](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/CelsiustoFahrenheit.js)
 |  9      |  [Javascript Program to Generate a Random Number](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/randomnumber.js)
-|  10     |  [Javascript Program to Check if a number is Positive, Negative, or Zero
-](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/numbercheck.js)
+|  10     |  [Javascript Program to Check if a number is Positive, Negative, or Zero](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/numbercheck.js)
