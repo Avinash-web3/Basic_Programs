@@ -9,3 +9,4 @@
 | 6      |  [Javascript Program to Solve Quadratic Equation](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/rootsofquadratic.js)
 | 7      | [JavaScript Program to Convert Kilometers to Miles](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/kilometertomiles.js)
 | 8      | [Javascript Program to Convert Celsius to Fahrenheit](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/CelsiustoFahrenheit.js)
+|  9      |  [Javascript Program to Generate a Random Number](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/randomnumber.js)
