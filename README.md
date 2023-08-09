@@ -11,3 +11,4 @@
 | 8      | [Javascript Program to Convert Celsius to Fahrenheit](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/CelsiustoFahrenheit.js)
 |  9      |  [Javascript Program to Generate a Random Number](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/randomnumber.js)
 |  10     |  [Javascript Program to Check if a number is Positive, Negative, or Zero](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/numbercheck.js)
+|  11     |   [Javascript Program to Check if a Number is Odd or Even](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/evenodd.js)
