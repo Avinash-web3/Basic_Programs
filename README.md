@@ -13,3 +13,4 @@
 |  10     |  [Javascript Program to Check if a number is Positive, Negative, or Zero](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/numbercheck.js)
 |  11     |   [Javascript Program to Check if a Number is Odd or Even](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/evenodd.js)
 |   12    |    [JavaScript Program to Find the Largest Among Three Numbers](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/largestnumber.js)
+|  13     |   [JavaScript Program to Check Prime Number](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/prime.js)
