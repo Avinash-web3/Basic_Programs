@@ -16,3 +16,4 @@
 |  13     |   [JavaScript Program to Check Prime Number](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/prime.js)
 |  14     |   [JavaScript Program to Print All Prime Numbers in an Interval](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/primebetweentwonumbers.js)
 |   15    |   [JavaScript Program to Find the Factorial of a Number](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/factorial.js)
+|   16    |   [JavaScript Program to Display the Multiplication Table](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/multiplication.js)
