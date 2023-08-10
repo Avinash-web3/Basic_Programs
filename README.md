@@ -18,3 +18,5 @@
 |   15    |   [JavaScript Program to Find the Factorial of a Number](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/factorial.js)
 |   16    |   [JavaScript Program to Display the Multiplication Table](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/multiplication.js)
 |   17    |  [JavaScript Program to Print the Fibonacci Sequence](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/fibonnaci.js)
+|   18    |  [JavaScript Program to Check Armstrong Number
+](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/Armstrong.js)
