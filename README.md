@@ -21,3 +21,4 @@
 |   18    |  [JavaScript Program to Check Armstrong Number](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/Armstrong.js)
 |   19    |  [JavaScript Program to Find Armstrong Number in an Interval](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/Armstrongininterval.js)
 |   20    |  [JavaScript Program to Make a Simple Calculator](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/calculator.js)
+|   21    |  [JavaScript Program to Find the Sum of Natural Numbers](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/sumofnumber.js)
