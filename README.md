@@ -23,3 +23,4 @@
 |   20    |  [JavaScript Program to Make a Simple Calculator](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/calculator.js)
 |   21    |  [JavaScript Program to Find the Sum of Natural Numbers](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/sumofnumber.js)
 |   22    |   [JavaScript Program to Check if the Numbers Have Same Last Digit](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/checklastdigit.js)
+|   23    |    [JavaScript Program to Find HCF or GCD](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/HCF_GCD.js)_
