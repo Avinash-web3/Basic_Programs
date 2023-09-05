@@ -10,7 +10,7 @@
 | 7      |   Convert Kilometers to Miles |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/Basic_Programs/blob/main/JAVASCRIPT/kilometertomiles.js) | - | -  |
 | 8      |   Convert Celsius to Fahrenheit |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/Basic_Programs/blob/main/JAVASCRIPT/CelsiustoFahrenheit.js) | - | -  |
 | 9      |   Generate a Random Number |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/Basic_Programs/blob/main/JAVASCRIPT/randomnumber.js) | - | -  |
-| 10     |   Check if a number is Positive, Negative, or Zero |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/HelloWorld.js) | - | -  |
+| 10     |   Check if a number is Positive, Negative, or Zero |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/Basic_Programs/blob/main/JAVASCRIPT/numbercheck.js) | - | -  |
 | 11     |   Check if a Number is Odd or Even |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/HelloWorld.js) | - | -  |
 | 12     |   Find the Largest Among Three Numbers |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/HelloWorld.js) | - | -  |
 | 13     |   Check Prime Number |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/HelloWorld.js) | - | -  |
