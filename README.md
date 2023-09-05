@@ -5,7 +5,7 @@
 | 2      |   Add Two Numbers |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/Basic_Programs/blob/main/JAVASCRIPT/addation.py) | - | -  |
 | 3      |   Find the Square Root |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/Basic_Programs/blob/main/JAVASCRIPT/squareroot.js) | - | -  |
 | 4      |   Calculate the Area of a Triangle |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/Basic_Programs/blob/main/JAVASCRIPT/areaoftraingle.js) | - | -  |
-| 5      |   Swap Two Variables |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/HelloWorld.js) | - | -  |
+| 5      |   Swap Two Variables |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/Basic_Programs/blob/main/JAVASCRIPT/swaptwovariable.js) | - | -  |
 | 6      |   Solve Quadratic Equation |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/HelloWorld.js) | - | -  |
 | 7      |   Convert Kilometers to Miles |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/HelloWorld.js) | - | -  |
 | 8      |   Convert Celsius to Fahrenheit |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/HelloWorld.js) | - | -  |
