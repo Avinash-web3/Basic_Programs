@@ -20,7 +20,7 @@
 | 17     |   Print the Fibonacci Sequence |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/Basic_Programs/blob/main/JAVASCRIPT/fibonnaci.js) | - | -  |
 | 18     |   Check Armstrong Number |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/Basic_Programs/blob/main/JAVASCRIPT/Armstrong.js) | - | -  |
 | 19     |   Find Armstrong Number in an Interval |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/Basic_Programs/blob/main/JAVASCRIPT/Armstrongininterval.js) | - | -  |
-| 20     |   Make a Simple Calculator|  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/HelloWorld.js) | - | -  |
+| 20     |   Make a Simple Calculator|  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/Basic_Programs/blob/main/JAVASCRIPT/calculator.js) | - | -  |
 | 21     |   Find the Sum of Natural Numbers |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/HelloWorld.js) | - | -  |
 | 22     |   Check if the Numbers Have Same Last Digit |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/HelloWorld.js) | - | -  |
 | 23     |   Find HCF or GCD |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/HelloWorld.js) | - | -  |
