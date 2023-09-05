@@ -17,7 +17,7 @@
 | 14     |   Print All Prime Numbers in an Interval |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/Basic_Programs/blob/main/JAVASCRIPT/primebetweentwonumbers.js) | - | -  |
 | 15     |   Find the Factorial of a Number |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/Basic_Programs/blob/main/JAVASCRIPT/factorial.js) | - | -  |
 | 16     |   Display the Multiplication Table |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/Basic_Programs/blob/main/JAVASCRIPT/multiplication.js) | - | -  |
-| 17     |   Print the Fibonacci Sequence |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/HelloWorld.js) | - | -  |
+| 17     |   Print the Fibonacci Sequence |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/Basic_Programs/blob/main/JAVASCRIPT/fibonnaci.js) | - | -  |
 | 18     |   Check Armstrong Number |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/HelloWorld.js) | - | -  |
 | 19     |   Find Armstrong Number in an Interval |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/HelloWorld.js) | - | -  |
 | 20     |   Make a Simple Calculator|  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/HelloWorld.js) | - | -  |
