@@ -1,4 +1,4 @@
-# JavaScript_Basic_Programs
+# Basic_Programs
 | ID |   Program     |  C  |  C++  |  JAVA  |  PYTHON  |  JAVASCRIPT  |  RUST  |  GO  |
 | :-------- | :------- | :-------- | :-------- | :-------- | :-------- | :-------- | :--------- | :---------- |
 | 1      |  Print Hello World |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/JavaScript_Basic_Programs/blob/main/Programs/HelloWorld.js) | - | -  |
