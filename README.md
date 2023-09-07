@@ -26,7 +26,7 @@
 | 23     |   Find HCF or GCD |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/Basic_Programs/edit/main/JAVASCRIPT/HCF_GCD.js) | - | -  |
 | 24     |  Program to Find LCM |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/Basic_Programs/edit/main/JAVASCRIPT/LCM.js) | - | -  |
 
-
+| 25     |  Program to Find LCM |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/Basic_Programs/edit/main/JAVASCRIPT/Factors.js) | - | -  |
 
 
 
