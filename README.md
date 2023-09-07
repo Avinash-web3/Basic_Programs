@@ -27,7 +27,7 @@
 | 24     |  Program to Find LCM |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/Basic_Programs/edit/main/JAVASCRIPT/LCM.js) | - | -  |
 | 25     |  Factors of Positive Number |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/Basic_Programs/edit/main/JAVASCRIPT/Factors.js) | - | -  |
 | 26     |  Sum of Natural Numbers Using Recursion |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/Basic_Programs/blob/main/JAVASCRIPT/sum_recursion.js) | - | -  |
-| 27     |  Sum of Natural Numbers Using Recursion |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/Basic_Programs/blob/main/JAVASCRIPT/Guess_a_Number.js) | - | -  |
+| 27     |  Guess a Random Number |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/Basic_Programs/blob/main/JAVASCRIPT/Guess_a_Number.js) | - | -  |
 
 
 
