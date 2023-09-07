@@ -24,6 +24,8 @@
 | 21     |   Find the Sum of Natural Numbers |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/Basic_Programs/blob/main/JAVASCRIPT/sumofnumber.js) | - | -  |
 | 22     |   Check if the Numbers Have Same Last Digit |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/Basic_Programs/blob/main/JAVASCRIPT/checklastdigit.js) | - | -  |
 | 23     |   Find HCF or GCD |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/Basic_Programs/edit/main/JAVASCRIPT/HCF_GCD.js) | - | -  |
+| 24     |  Program to Find LCM |  - | - | - | - | [JavaScript](https://github.com/Avinash-web3/Basic_Programs/edit/main/JAVASCRIPT/LCM.js) | - | -  |
+
 
 
 
